@@ -1,8 +1,3 @@
----
-banner: "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=1200"
-banner_y: 0.5
-tags: [obsidian, setup, guide]
----
 
 # 🎨 My Obsidian Vault Setup Guide
 
